@@ -45,6 +45,7 @@
 		8E6EAD8D29B8AEE900452FC7 /* CoinDetailDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD8C29B8AEE900452FC7 /* CoinDetailDataService.swift */; };
 		8E6EAD8F29B9C8A900452FC7 /* ChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD8E29B9C8A900452FC7 /* ChartView.swift */; };
 		8E6EAD9129BA399B00452FC7 /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD9029BA399B00452FC7 /* Date.swift */; };
+		8E6EAD9329BA4DC900452FC7 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD9229BA4DC900452FC7 /* String.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -87,6 +88,7 @@
 		8E6EAD8C29B8AEE900452FC7 /* CoinDetailDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinDetailDataService.swift; sourceTree = "<group>"; };
 		8E6EAD8E29B9C8A900452FC7 /* ChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartView.swift; sourceTree = "<group>"; };
 		8E6EAD9029BA399B00452FC7 /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
+		8E6EAD9229BA4DC900452FC7 /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				8E6EAD5529A8E02200452FC7 /* Double.swift */,
 				8E6EAD6A29AC552900452FC7 /* UIApplication.swift */,
 				8E6EAD9029BA399B00452FC7 /* Date.swift */,
+				8E6EAD9229BA4DC900452FC7 /* String.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -378,6 +381,7 @@
 				8E6EAD7129ADAB2400452FC7 /* HomeStatsView.swift in Sources */,
 				8E6EAD7529ADBAE200452FC7 /* MarketData.swift in Sources */,
 				8E6EAD5229A8D12300452FC7 /* PreviewProvider.swift in Sources */,
+				8E6EAD9329BA4DC900452FC7 /* String.swift in Sources */,
 				8E6EAD6529AA6A4100452FC7 /* CoinImageViewModel.swift in Sources */,
 				8E6EAD4D29A86BA400452FC7 /* CircleButtonAnimationView.swift in Sources */,
 				8E6EAD7729ADF2A100452FC7 /* PortfolioView.swift in Sources */,
