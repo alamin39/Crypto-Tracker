@@ -46,6 +46,7 @@
 		8E6EAD8F29B9C8A900452FC7 /* ChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD8E29B9C8A900452FC7 /* ChartView.swift */; };
 		8E6EAD9129BA399B00452FC7 /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD9029BA399B00452FC7 /* Date.swift */; };
 		8E6EAD9329BA4DC900452FC7 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD9229BA4DC900452FC7 /* String.swift */; };
+		8E6EAD9729BB126900452FC7 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD9629BB126900452FC7 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -89,6 +90,7 @@
 		8E6EAD8E29B9C8A900452FC7 /* ChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartView.swift; sourceTree = "<group>"; };
 		8E6EAD9029BA399B00452FC7 /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
 		8E6EAD9229BA4DC900452FC7 /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
+		8E6EAD9629BB126900452FC7 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,9 +160,10 @@
 		8E6EAD4229A7CE4C00452FC7 /* Core */ = {
 			isa = PBXGroup;
 			children = (
-				8E6EAD8329B8543800452FC7 /* Detail */,
 				8E6EAD4829A7D2D000452FC7 /* Components */,
 				8E6EAD4329A7CE5B00452FC7 /* Home */,
+				8E6EAD8329B8543800452FC7 /* Detail */,
+				8E6EAD9429BB11B100452FC7 /* Settings */,
 			);
 			path = Core;
 			sourceTree = "<group>";
@@ -284,6 +287,22 @@
 			path = ViewModels;
 			sourceTree = "<group>";
 		};
+		8E6EAD9429BB11B100452FC7 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				8E6EAD9529BB124600452FC7 /* Views */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		8E6EAD9529BB124600452FC7 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				8E6EAD9629BB126900452FC7 /* SettingsView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -391,6 +410,7 @@
 				8E6EAD8D29B8AEE900452FC7 /* CoinDetailDataService.swift in Sources */,
 				8E6EAD8B29B8AE9000452FC7 /* DetailViewModel.swift in Sources */,
 				8E6EAD8029AFBFE700452FC7 /* PortfolioDataService.swift in Sources */,
+				8E6EAD9729BB126900452FC7 /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
