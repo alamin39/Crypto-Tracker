@@ -19,10 +19,20 @@ struct SettingsView: View {
     
     var body: some View {
         NavigationView {
-            List {
-                coinGeckoSection
-                developerSection
-                applicationSection
+            ZStack {
+                // background
+                Color.theme.background
+                    .ignoresSafeArea()
+                
+                // content
+                List {
+                    coinGeckoSection
+                        .listRowBackground(Color.theme.background)
+                    developerSection
+                        .listRowBackground(Color.theme.background)
+                    applicationSection
+                        .listRowBackground(Color.theme.background)
+                }
             }
             .font(.headline)
             .tint(.blue)
