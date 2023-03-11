@@ -1,5 +1,7 @@
 # Crypto-Tracker
 
+An app where you can track Live Cryptocurrency data. Also, you can maintain your personal portfolio.
+
 Technology:
 
 Swift, SwiftUI, MVVM, Combine, Core Data, Animation
