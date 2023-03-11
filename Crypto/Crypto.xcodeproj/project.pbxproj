@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		8E6EAD3029A7436900452FC7 /* CryptoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD2F29A7436900452FC7 /* CryptoApp.swift */; };
-		8E6EAD3229A7436900452FC7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD3129A7436900452FC7 /* ContentView.swift */; };
 		8E6EAD3729A7436A00452FC7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EAD3629A7436A00452FC7 /* Preview Assets.xcassets */; };
 		8E6EAD3E29A748B400452FC7 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD3D29A748B400452FC7 /* Color.swift */; };
 		8E6EAD4029A74DC000452FC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EAD3F29A74DBF00452FC7 /* Assets.xcassets */; };
@@ -54,7 +53,6 @@
 /* Begin PBXFileReference section */
 		8E6EAD2C29A7436900452FC7 /* Crypto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Crypto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E6EAD2F29A7436900452FC7 /* CryptoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoApp.swift; sourceTree = "<group>"; };
-		8E6EAD3129A7436900452FC7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8E6EAD3629A7436A00452FC7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8E6EAD3D29A748B400452FC7 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		8E6EAD3F29A74DBF00452FC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../../Downloads/Resources/Assets.xcassets; sourceTree = "<group>"; };
@@ -133,7 +131,6 @@
 				8E6EAD4E29A8936E00452FC7 /* Models */,
 				8E6EAD4229A7CE4C00452FC7 /* Core */,
 				8E6EAD2F29A7436900452FC7 /* CryptoApp.swift */,
-				8E6EAD3129A7436900452FC7 /* ContentView.swift */,
 				8E6EAD3F29A74DBF00452FC7 /* Assets.xcassets */,
 				8E6EAD3529A7436A00452FC7 /* Preview Content */,
 			);
@@ -406,7 +403,6 @@
 				8E6EAD9129BA399B00452FC7 /* Date.swift in Sources */,
 				8E6EAD5829A9190200452FC7 /* HomeViewModel.swift in Sources */,
 				8E6EAD8929B8ABAB00452FC7 /* CoinDetail.swift in Sources */,
-				8E6EAD3229A7436900452FC7 /* ContentView.swift in Sources */,
 				8E6EAD6729AAFE0700452FC7 /* LocalFileManager.swift in Sources */,
 				8E6EAD4729A7CECF00452FC7 /* HomeView.swift in Sources */,
 				8E6EAD6F29AD05D100452FC7 /* StatisticView.swift in Sources */,
