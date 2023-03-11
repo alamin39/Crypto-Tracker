@@ -1,4 +1,4 @@
 # Crypto-Tracker
 Technology:
 
-SwiftUI, MVVM, Combine
+SwiftUI, MVVM, Combine, Core Data, Animation
