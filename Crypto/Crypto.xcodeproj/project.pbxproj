@@ -10,7 +10,6 @@
 		8E6EAD3029A7436900452FC7 /* CryptoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD2F29A7436900452FC7 /* CryptoApp.swift */; };
 		8E6EAD3729A7436A00452FC7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EAD3629A7436A00452FC7 /* Preview Assets.xcassets */; };
 		8E6EAD3E29A748B400452FC7 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD3D29A748B400452FC7 /* Color.swift */; };
-		8E6EAD4029A74DC000452FC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EAD3F29A74DBF00452FC7 /* Assets.xcassets */; };
 		8E6EAD4729A7CECF00452FC7 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD4629A7CECF00452FC7 /* HomeView.swift */; };
 		8E6EAD4B29A7D33200452FC7 /* CircleButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD4A29A7D33200452FC7 /* CircleButtonView.swift */; };
 		8E6EAD4D29A86BA400452FC7 /* CircleButtonAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD4C29A86BA400452FC7 /* CircleButtonAnimationView.swift */; };
@@ -48,6 +47,7 @@
 		8E6EAD9729BB126900452FC7 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD9629BB126900452FC7 /* SettingsView.swift */; };
 		8E6EAD9B29BB934E00452FC7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E6EAD9A29BB934E00452FC7 /* LaunchScreen.storyboard */; };
 		8E6EAD9D29BB97A400452FC7 /* LaunchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6EAD9C29BB97A400452FC7 /* LaunchView.swift */; };
+		8E94CEA229C2338100BDEC4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E94CEA129C2338100BDEC4F /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,7 +55,6 @@
 		8E6EAD2F29A7436900452FC7 /* CryptoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoApp.swift; sourceTree = "<group>"; };
 		8E6EAD3629A7436A00452FC7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8E6EAD3D29A748B400452FC7 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
-		8E6EAD3F29A74DBF00452FC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../../Downloads/Resources/Assets.xcassets; sourceTree = "<group>"; };
 		8E6EAD4629A7CECF00452FC7 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		8E6EAD4A29A7D33200452FC7 /* CircleButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButtonView.swift; sourceTree = "<group>"; };
 		8E6EAD4C29A86BA400452FC7 /* CircleButtonAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButtonAnimationView.swift; sourceTree = "<group>"; };
@@ -93,6 +92,7 @@
 		8E6EAD9629BB126900452FC7 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		8E6EAD9A29BB934E00452FC7 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8E6EAD9C29BB97A400452FC7 /* LaunchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchView.swift; sourceTree = "<group>"; };
+		8E94CEA129C2338100BDEC4F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,7 +131,7 @@
 				8E6EAD4E29A8936E00452FC7 /* Models */,
 				8E6EAD4229A7CE4C00452FC7 /* Core */,
 				8E6EAD2F29A7436900452FC7 /* CryptoApp.swift */,
-				8E6EAD3F29A74DBF00452FC7 /* Assets.xcassets */,
+				8E94CEA129C2338100BDEC4F /* Assets.xcassets */,
 				8E6EAD3529A7436A00452FC7 /* Preview Content */,
 			);
 			path = Crypto;
@@ -382,7 +382,7 @@
 			files = (
 				8E6EAD9B29BB934E00452FC7 /* LaunchScreen.storyboard in Resources */,
 				8E6EAD3729A7436A00452FC7 /* Preview Assets.xcassets in Resources */,
-				8E6EAD4029A74DC000452FC7 /* Assets.xcassets in Resources */,
+				8E94CEA229C2338100BDEC4F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
