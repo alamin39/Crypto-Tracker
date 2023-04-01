@@ -2,6 +2,7 @@
 
 An app where you can track Live Cryptocurrency data. Also, you can maintain your personal portfolio.
 
+Video Link: https://www.youtube.com/watch?v=5-gnHzGLY_o&t=33s
 
 Technology:
 
