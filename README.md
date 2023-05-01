@@ -2,14 +2,16 @@
 
 An app where you can track Live Cryptocurrency data. Also, you can maintain your personal portfolio.
 
-Video Link: https://www.youtube.com/watch?v=5-gnHzGLY_o&t=33s
+### Video Link:
 
-Technology:
+https://www.youtube.com/watch?v=5-gnHzGLY_o&t=33s
+
+### Technology:
 
 Swift, SwiftUI, MVVM, Combine, Core Data, Animation
 
 
-Screens:
+### Screens:
 
 <img src="https://user-images.githubusercontent.com/39402639/224474673-49472b6d-9b6f-4969-a988-cf9298fb443f.png" width="500" height="750">
 
